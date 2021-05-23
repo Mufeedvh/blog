@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Blog :: Mufeed VH</title>
+        <link>https://mufeedvh.github.io/blog</link>
+        <description>Mufeed VH&#x27;s blog covering topics like software engineering, programming, open-source code, bug bounty writeups, security research, and especially random stuff.</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://mufeedvh.github.io/blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Nothing here</title>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+            <link>https://mufeedvh.github.io/blog/nothingness/</link>
+            <guid>https://mufeedvh.github.io/blog/nothingness/</guid>
+            <description>&lt;p&gt;&lt;strong&gt;Old blogs will be migrated to this space...&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
